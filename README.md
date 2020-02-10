@@ -11,6 +11,6 @@
 - [github](https://github.com/Wang-Haolong/Preservation_of_teaching_materials)
 - [码云](https://gitee.com/wang_hao_long/Preservation_of_teaching_materials)
 
-![](commom_files/你渴望力量吗.jpg)
+![](common_files/你渴望力量吗.jpg)
 
 By Wang Haolong
